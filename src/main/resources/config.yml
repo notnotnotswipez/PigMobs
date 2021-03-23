@@ -1,0 +1,4 @@
+# Make sure to use the MobID number instead of a mob name
+# https://wiki.vg/Entity_metadata#Mobs has a list of mobs and their ID's
+# Make sure to use the numbers from the "Type" section on the web page
+MobID: 59

@@ -1,0 +1,7 @@
+name: PigMobs
+version: ${project.version}
+main: me.swipez.pigmobs.PigMobs
+api-version: 1.16
+authors: [ notnotnotswipez ]
+depend:
+  - ProtocolLib
